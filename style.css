@@ -9,7 +9,7 @@ body{
     font-family: "Fira Sans", serif;
 }
 .main-container{
-    max-width: 1280px;
+    max-width: 70%;
     margin: 0 auto;
 }
 
@@ -27,12 +27,13 @@ body{
     border-radius: 8px;
     border: none;
     cursor: pointer;
-    outline: auto;
+    outline: none;
     transition: 0.1s;
 }
 .common-btn:hover{
     background-color: #925d09d2;
     color: white;
+    outline: none;
     transition: .3s;
 }
 .common-p{
@@ -54,7 +55,28 @@ nav{
 }
 .nav-btn{
     background-color: #F5F5F5;
-    border: 2px solid #006A50;
+    border: 1px solid #006A50;
     color: #006A50;
+}
+                                  /* banner section style  */
+
+.bannar-section{
+    display: flex;
+    gap: 64px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    padding: 80px;
+    outline: none;
+}
+.bannar-sub-title{
+    font-size: 24px;
+    color: #0E0E0E;
+    padding-bottom: 16px;
+}
+.bannar-sub-heading{
+    font-size: 56px;
+    padding-bottom: 24px;
 }
                                                                                     
