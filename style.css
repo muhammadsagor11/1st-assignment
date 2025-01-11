@@ -102,4 +102,49 @@ nav{
     padding: 24px 0 12px 0;
 }
 
+
+
+                                                /* vision section starts */
+
+
+
+
+.vision-section{
+    margin-bottom: 80px;
+}
+.vision-title{
+    margin: 10px 0;
+    padding: 10px;
+}
+.vision-card-container{
+    display: flex;
+    gap: 24px;
+}
+.vision-title .common-h{
+    padding: 24px 0;
+}
+.vision-card-container button{
+    margin-top: 24px;
+}
+.card-1{
+    background-color: #9BCFFA;
+}
+.card-2{
+    background-color: #C6E4D6;
+}
+.card-3{
+    background-color: #F6EACE;
+}
+.btn-1{
+    background-color: #5490F5;
+}
+.btn-2{
+    background-color: #09A15C;
+}
+.btn-3{
+    background-color: #FFC239;
+}
+
+
+
                                                                                     
