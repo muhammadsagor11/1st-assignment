@@ -109,42 +109,123 @@ nav{
 
 
 
-.vision-section{
+.vision-conatinar{
     margin-bottom: 80px;
 }
-.vision-title{
+
+
+.vision-contant{
     margin: 10px 0;
     padding: 10px;
 }
+
+
 .vision-card-container{
     display: flex;
     gap: 24px;
 }
-.vision-title .common-h{
+
+
+.vision-contant .common-h{
     padding: 24px 0;
 }
+
+
 .vision-card-container button{
     margin-top: 24px;
 }
+
+
 .card-1{
     background-color: #9BCFFA;
 }
+
+
 .card-2{
     background-color: #C6E4D6;
 }
+
+
 .card-3{
     background-color: #F6EACE;
 }
+
+
 .btn-1{
     background-color: #5490F5;
 }
+
+
 .btn-2{
     background-color: #09A15C;
 }
+
+
 .btn-3{
     background-color: #FFC239;
 }
 
+
+.vision-chalange{
+    background-image: url(assets/quote-bg.png);
+    padding: 48px 24px;
+    background-color: white;
+    margin: 32px 0 80px 0;
+    border: 1px solid silver;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-position:top 20px left 24px;
+}
+
+
+
+
+                                                    /* opinion section starts  */
+
+
+
+
+.opinion-section{
+    margin-bottom: 80px;
+}
+
+
+.opinion-section h2{
+    padding-bottom: 24px;
+}
+
+
+.table-container{
+    background-color: white;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+  
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 24px;
+}
+
+
+td, th{
+    border: 1px solid silver;
+    padding: 20px 24px;
+    text-align: left;
+}
+
+
+th{
+    background-color: #C6E4D6;
+}
+
+
+select{
+    padding: 15px 30px;
+    background-color: #C6E4D6;
+    text-align: center;
+}
 
 
                                                                                     
